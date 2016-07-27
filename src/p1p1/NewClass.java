@@ -9,15 +9,7 @@ package p1p1;
  *
  * @author sebas
  */
-public class P1p1 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("hola github v2.0");
-        // TODO code application logic here
-        
-    }
+public class NewClass {
+    
     
 }
